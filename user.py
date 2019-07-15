@@ -7,3 +7,9 @@ def get_user_info(uid):
 def show_me():
 	me = get _user_info(uid)
     return me
+
+def logout():
+    pass
+
+def change_password():
+    pass
